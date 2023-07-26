@@ -1,0 +1,15 @@
+/home/arteN01-056/Documents/diccionarios-sharp/bin/Debug/net7.0/diccionarios-sharp
+/home/arteN01-056/Documents/diccionarios-sharp/bin/Debug/net7.0/diccionarios-sharp.deps.json
+/home/arteN01-056/Documents/diccionarios-sharp/bin/Debug/net7.0/diccionarios-sharp.runtimeconfig.json
+/home/arteN01-056/Documents/diccionarios-sharp/bin/Debug/net7.0/diccionarios-sharp.dll
+/home/arteN01-056/Documents/diccionarios-sharp/bin/Debug/net7.0/diccionarios-sharp.pdb
+/home/arteN01-056/Documents/diccionarios-sharp/obj/Debug/net7.0/diccionarios-sharp.csproj.AssemblyReference.cache
+/home/arteN01-056/Documents/diccionarios-sharp/obj/Debug/net7.0/diccionarios-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-056/Documents/diccionarios-sharp/obj/Debug/net7.0/diccionarios-sharp.AssemblyInfoInputs.cache
+/home/arteN01-056/Documents/diccionarios-sharp/obj/Debug/net7.0/diccionarios-sharp.AssemblyInfo.cs
+/home/arteN01-056/Documents/diccionarios-sharp/obj/Debug/net7.0/diccionarios-sharp.csproj.CoreCompileInputs.cache
+/home/arteN01-056/Documents/diccionarios-sharp/obj/Debug/net7.0/diccionarios-sharp.dll
+/home/arteN01-056/Documents/diccionarios-sharp/obj/Debug/net7.0/refint/diccionarios-sharp.dll
+/home/arteN01-056/Documents/diccionarios-sharp/obj/Debug/net7.0/diccionarios-sharp.pdb
+/home/arteN01-056/Documents/diccionarios-sharp/obj/Debug/net7.0/diccionarios-sharp.genruntimeconfig.cache
+/home/arteN01-056/Documents/diccionarios-sharp/obj/Debug/net7.0/ref/diccionarios-sharp.dll
